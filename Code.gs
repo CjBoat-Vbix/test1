@@ -12,7 +12,7 @@ const Excel_Holiday = "https://docs.google.com/spreadsheets/d/1wkSpcFbCxziHvUr9L
 const LOG_URL = "https://docs.google.com/document/d/1YPnFpZDvwxCZs_Ul3G7KCENrcIG-ChNz39y0ltOa0Ko/edit";
 
 var test1 = "test1";
-
+var test2 = "test2";
 //API options
 // var options = {
 //   "method": "GET",
