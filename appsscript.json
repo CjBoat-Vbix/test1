@@ -1,0 +1,20 @@
+{
+  "timeZone": "Asia/Bangkok",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "NewVBixLib",
+      "libraryId": "1Pk_YMwMVbIZK8ZPjk0ri3a5soaHX_8EdFCkIyPOkO0rShSZs1Tbv4tL2",
+      "version": "10"
+    }, {
+      "userSymbol": "VBixLib",
+      "libraryId": "1CSFz2K_55hvCkjq1t5ZTyYpwRyucgmY41t3u2iQg7vBYxEyljRn28T51",
+      "version": "104"
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
