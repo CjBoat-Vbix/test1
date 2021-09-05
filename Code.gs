@@ -10,7 +10,9 @@ var instanceID = "PkI3y9IqzVvzT";
 //test github
 const Excel_Holiday = "https://docs.google.com/spreadsheets/d/1wkSpcFbCxziHvUr9L_fPmOv-GWPt701kppu92tpASLI/edit#gid=0";
 const LOG_URL = "https://docs.google.com/document/d/1YPnFpZDvwxCZs_Ul3G7KCENrcIG-ChNz39y0ltOa0Ko/edit";
-var test = "test"
+
+var test1 = "test1";
+
 //API options
 // var options = {
 //   "method": "GET",
